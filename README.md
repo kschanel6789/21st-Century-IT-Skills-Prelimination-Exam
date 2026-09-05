@@ -1,3 +1,16 @@
 # 21st-Century-IT-Skills-Prelimination-Exam
 
-# This repository contains my Prelim Examination project for GE 4120: 21st Century IT Skills. It includes the different activities and outputs I completed throughout the prelim period. The project focuses on developing my skills in presentation design, visual communication, and digital content creation. One of the activities focuses on presentation design principles and how they can make presentations more organized and effective. It also includes my chosen color palette and typography, along with the ideas behind the design choices I made. Another part of the project features social media infographics and mini project documentation that allowed me to explore more creative ways of presenting information. Each activity shows how I applied the lessons and concepts discussed in class to my own work. I organized the outputs in this repository so they can be easily accessed and viewed in one place. Creating this project also helped me become more familiar with using GitHub as a platform for storing and showcasing my work. Overall, this repository represents my learning and progress in developing my digital, creative, and presentation skills.
+##
+
+This repository contains my Prelim Examination project for GE 4120: 21st Century IT Skills.
+It includes the different activities and outputs I completed throughout the prelim period.
+The project focuses on developing my skills in presentation design, visual communication, and digital content creation.
+One of the activities focuses on presentation design principles and how they can make presentations more organized and effective.
+It also includes my chosen color palette and typography, along with the ideas behind the design choices I made.
+Another part of the project features social media infographics and mini project documentation that allowed me to explore more creative ways of presenting information.
+Each activity shows how I applied the lessons and concepts discussed in class to my own work.
+I organized the outputs in this repository so they can be easily accessed and viewed in one place.
+Creating this project also helped me become more familiar with using GitHub as a platform for storing and showcasing my work.
+Overall, this repository represents my learning and progress in developing my digital, creative, and presentation skills.
+
+
